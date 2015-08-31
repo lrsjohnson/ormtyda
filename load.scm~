@@ -1,4 +1,0 @@
-;;; Load propagator
-(cd "propagator")
-(load "load")
-(cd "..")
